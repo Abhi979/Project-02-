@@ -3,3 +3,7 @@ This Project is part of Full Stack Javascript bootcamp which is being taught by 
 
 ### Time taken to finish this project
 Approx 3 to 4 hour because its complicated for me  to align items and text 
+
+## Output
+![Output](https://user-images.githubusercontent.com/65283278/181918563-15205376-1670-4767-8660-8567e7103dc5.png)
+
